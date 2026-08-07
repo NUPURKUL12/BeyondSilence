@@ -1,0 +1,6 @@
+{
+  "name": "BeyondSilence",
+  "description": "Simple, accessible sign language translation UI with live speech captioning, gesture dictionary, and visual alerts.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
