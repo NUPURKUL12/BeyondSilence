@@ -1,0 +1,6 @@
+{
+  "name": "BeyondSilence",
+  "description": "Two-way Indian Sign Language (ISL) communication web application between Deaf and hearing users with live speech-to-text, 3D sign avatar, and MediaPipe hand gesture recognition.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

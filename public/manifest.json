@@ -1,0 +1,16 @@
+{
+  "name": "BeyondSilence Healthcare PWA",
+  "short_name": "BeyondSilence",
+  "description": "Accessible healthcare communication app bridging Deaf users, doctors, and caregivers with visual alerts and live captions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0d9488",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230d9488'/><path d='M30 50 A20 20 0 0 1 70 50 M20 35 A35 35 0 0 1 80 35 M40 50 L50 35 L60 50 Z' stroke='white' stroke-width='6' fill='none'/><circle cx='50' cy='65' r='6' fill='white'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
